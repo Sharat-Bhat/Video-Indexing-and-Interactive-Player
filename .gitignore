@@ -1,0 +1,9 @@
+*.mp4
+*.wav
+Lib
+Include
+Scripts
+share
+output_video.avi
+InputVideo.rgb
+InputAudio.wav
